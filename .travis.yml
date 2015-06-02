@@ -1,2 +1,0 @@
-language: c++
-script: ./Run-Tests.sh
